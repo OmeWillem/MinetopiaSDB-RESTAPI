@@ -29,7 +29,7 @@ let response;
 try {
   response = await fetch(url, { method: "Get" });
 } catch (err) {
-	return console.log('The api server could not be reached.');
+  return console.log('The api server could not be reached.');
 }
 
 const json = await response.json();
