@@ -42,7 +42,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Links
-[Discord](https://discord.gg/AvRpCUZ) [Spigot](https://minetopiasdb.nl/)
+[Discord](https://discord.gg/AvRpCUZ) [Spigot](https://www.spigotmc.org/resources/minetopiasdb-restapi.95065/)
 [MinetopiaSDB](https://minetopiasdb.nl/)
 
 ## License
