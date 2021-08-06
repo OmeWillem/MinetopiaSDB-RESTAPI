@@ -1,6 +1,7 @@
 # MinetopiaSDB-RESTAPI
 Simple json rest api to use with the MinetopiaSDB Minecraft plugin. Below you can see what a default response looks like.
-```json
+
+```JSON
 {
    "success":true,
    "timeDays":0,
@@ -15,7 +16,8 @@ Simple json rest api to use with the MinetopiaSDB Minecraft plugin. Below you ca
    "fitness":20,
    "goldshards":"0.000",
    "timeMinutes":0
-}```
+}
+```
 
 ## NodeJS Example
 Make sure you have node-fetch installed, or use ``npm i node-fetch``
