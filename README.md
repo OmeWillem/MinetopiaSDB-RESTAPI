@@ -2,7 +2,7 @@
 Simple json rest api to use with the MinetopiaSDB Minecraft plugin.
 
 ## NodeJS Example
-Make sure you have node-fetch installed, or use npm i node-fetch
+Make sure you have node-fetch installed, or use ``npm i node-fetch``
 
 ```js
 let url = "http://SERVERIP:PORT/api/player/PLAYERNAME";
