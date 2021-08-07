@@ -1,4 +1,7 @@
 # MinetopiaSDB-RESTAPI
+![Spiget Version](https://img.shields.io/spiget/version/95065?color=red&label=version)
+![License](https://img.shields.io/github/license/Jazzkuh/MinetopiaSDB-RESTAPI)
+![Spiget Downloads](https://img.shields.io/spiget/downloads/95065)
 Simple json rest api to use with the MinetopiaSDB Minecraft plugin. Below you can see what a default response looks like.
 
 ```JSON
@@ -38,8 +41,6 @@ const json = await response.json();
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## Links
 [Discord](https://discord.gg/AvRpCUZ) [Spigot](https://www.spigotmc.org/resources/minetopiasdb-restapi.95065/)
