@@ -2,6 +2,7 @@
 ![Spiget Version](https://img.shields.io/spiget/version/95065?color=red&label=version)
 ![License](https://img.shields.io/github/license/Jazzkuh/MinetopiaSDB-RESTAPI)
 ![Spiget Downloads](https://img.shields.io/spiget/downloads/95065)
+
 Simple json rest api to use with the MinetopiaSDB Minecraft plugin. Below you can see what a default response looks like.
 
 ```JSON
