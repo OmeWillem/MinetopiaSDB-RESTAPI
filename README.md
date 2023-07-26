@@ -19,7 +19,8 @@ Simple json rest api to use with the MinetopiaSDB Minecraft plugin. Below you ca
    "grayshards":"0.0",
    "fitness":20,
    "goldshards":"0.000",
-   "timeMinutes":0
+   "timeMinutes":0,
+   "money":0.0,
 }
 ```
 
@@ -46,6 +47,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Links
 [Discord](https://discord.gg/AvRpCUZ) [Spigot](https://www.spigotmc.org/resources/minetopiasdb-restapi.95065/)
 [MinetopiaSDB](https://minetopiasdb.nl/)
+[Vault](https://www.spigotmc.org/resources/vault.34315/)
 
 ## License
 [GNU LGPLv2.1](https://choosealicense.com/licenses/lgpl-2.1/) © [Jazzkuh](https://github.com/Jazzkuh/)
