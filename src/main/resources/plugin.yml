@@ -2,6 +2,6 @@ name: MinetopiaSDB-RESTAPI
 version: ${project.version}
 main: com.jazzkuh.sdbrestapi.Main
 authors: [Jazzkuh]
-depend: [MinetopiaSDB]
+depend: [MinetopiaSDB, Vault]
 commands:
   weburl: {}

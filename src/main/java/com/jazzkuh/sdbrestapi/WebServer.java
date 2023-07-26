@@ -44,6 +44,7 @@ public class WebServer {
             jsonObject.put("timeHours",  offlineSDBPlayer.getTimeHours());
             jsonObject.put("timeMinutes",  offlineSDBPlayer.getTimeMinutes());
             jsonObject.put("timeSeconds",  offlineSDBPlayer.getTimeSeconds());
+            jsonObject.put("money", Main.getEcon().getBalance(player));
 
             return jsonObject.toJSONString();
         });
